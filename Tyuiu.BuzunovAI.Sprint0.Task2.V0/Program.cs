@@ -15,4 +15,4 @@ namespace Tyuiu.BuzunovAI.Sprint0.Task2.V0
             Console.ReadKey();
         }
     }
-}
+} 
